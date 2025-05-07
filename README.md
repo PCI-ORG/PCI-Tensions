@@ -33,4 +33,8 @@ Please follow the following stepes to replicate this study:
 
 Please cite the source of the latest PCI-Tensions by the website: https://policychangeindex.org.
 
-Please stay tune for our upcoming research paper on the subject.
+For academic work, please cite the following research paper:
+
+- Kaiwei Hsu and Weifeng Zhong. 2025. "Predicting Taiwan Strait Crises Using Propaganda: A New Open-Source Method." [Mercatus Policy Brief](https://www.mercatus.org/research/policy-briefs/predicting-taiwan-strait-crises-using-propaganda-new-open-source-method).
+
+Please stay tune for more research products based on/using this algorithm.
